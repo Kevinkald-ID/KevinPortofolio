@@ -61,7 +61,7 @@ body {
   line-height: 1.5;
   color: #6c757d;
   text-align: left;
-  background-color: #eeebe3;
+  background-color: #f9f8f4;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -6334,65 +6334,65 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 .bg-secondary {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
 button.bg-secondary:hover,
 button.bg-secondary:focus {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 .bg-success {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 a.bg-success:hover, a.bg-success:focus,
 button.bg-success:hover,
 button.bg-success:focus {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 .bg-info {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 a.bg-info:hover, a.bg-info:focus,
 button.bg-info:hover,
 button.bg-info:focus {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 .bg-warning {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 a.bg-warning:hover, a.bg-warning:focus,
 button.bg-warning:hover,
 button.bg-warning:focus {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 .bg-danger {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 .bg-danger2 {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 .bg-danger3 {
-  background-color: #93765d !important;
+  background-color: #3d2e32 !important;
 }
 
 a.bg-danger:hover, a.bg-danger:focus,
@@ -6402,7 +6402,7 @@ button.bg-danger:focus {
 }
 
 .bg-light {
-  background-color: #ffffff !important;
+  background-color: #fefcff !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
@@ -9512,7 +9512,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #0BCEAF !important;
+  color: #a3968d !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
